@@ -17,11 +17,11 @@
   ],
   "homepage": "https://runlore.dev",
   "bugs": {
-    "url": "https://github.com/runlore/runlore/issues"
+    "url": "https://github.com/xuliang2024/runlore/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/runlore/runlore.git"
+    "url": "git+https://github.com/xuliang2024/runlore.git"
   },
   "license": "MIT",
   "private": true,
