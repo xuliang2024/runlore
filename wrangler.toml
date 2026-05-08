@@ -1,0 +1,22 @@
+name = "runlore"
+main = "src/index.ts"
+compatibility_date = "2026-05-08"
+workers_dev = true
+preview_urls = true
+
+routes = [
+  { pattern = "runlore.dev/*", zone_name = "runlore.dev" },
+  { pattern = "api.runlore.dev/*", zone_name = "runlore.dev" }
+]
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "runlore-db"
+database_id = "add51641-8ce1-46f0-bf14-54edc535863d"
+
+[vars]
+ENVIRONMENT = "production"
