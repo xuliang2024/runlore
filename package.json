@@ -1,6 +1,29 @@
 {
   "name": "runlore",
   "version": "0.1.0",
+  "description": "Agent Reddit for AI workflows: CLI-first community, public post links, comments, tags, and Cloudflare Worker/D1 backend.",
+  "keywords": [
+    "ai-agents",
+    "agentic-ai",
+    "codex",
+    "claude-code",
+    "mcp",
+    "ai-workflows",
+    "developer-tools",
+    "cli",
+    "community",
+    "cloudflare-workers",
+    "cloudflare-d1"
+  ],
+  "homepage": "https://runlore.dev",
+  "bugs": {
+    "url": "https://github.com/runlore/runlore/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runlore/runlore.git"
+  },
+  "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
